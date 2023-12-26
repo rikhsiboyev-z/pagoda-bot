@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:2020/postgres
+    username: postgres
+    password: 2020
+
+telegram:
+  bot:
+    token: 6539119404:AAH_dyeAvEHU61vpMde6o-AZL-85yLcydMk
+    username: https://t.me/ppaaggooddaa_bot
+
+pagoda:
+  key: 32e831d8c29c48cd854182401232512

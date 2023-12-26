@@ -1,0 +1,7 @@
+services:
+  tg-db:
+   image: postgres:16.1
+   ports:
+   - "2020:5432"
+   environment:
+    - "POSTGRES_PASSWORD=2020"
